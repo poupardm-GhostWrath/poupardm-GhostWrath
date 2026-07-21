@@ -23,7 +23,7 @@ I'm currently working on a personal project called [GoAdventure](https://github.
 
 I'm currently learning more about Go and SQL. I also trying to integrate Docker into the mix to get a better understanding of containerization. With this knowledge, I hope to eventually get a better understanding of Kubernetes.
 
-### 🐻 Boot.Dev
+### 🐻 Boot.Dev ...
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/0ec74c01-62f0-4118-a16d-25a4d7263839/thumbnail" width="50%" height="auto">
