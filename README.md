@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭 Working on ...
+
+I'm currently working on a personal project called [GoAdventure](https://github.com/poupardm-GhostWrath/GoAdventure). I am trying to experiment and learn more about Go by creating this text-based adventure game. I used my [EorzeanAdventure](https://github.com/poupardm-GhostWrath/EorzeanAdventure) project as the inspiration for it.
+
+### 🌱 Learning ...
+
+I'm currently learning more about Go and SQL. I also trying to integrate Docker into the mix to get a better understanding of containerization. With this knowledge, I hope to eventually get a better understanding of Kubernetes.
+
+### 🐻 Boot.Dev
+
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/0ec74c01-62f0-4118-a16d-25a4d7263839/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/0ec74c01-62f0-4118-a16d-25a4d7263839/thumbnail" width="50%" height="auto">
 </p>
