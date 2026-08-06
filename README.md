@@ -21,7 +21,7 @@ I'm currently working on a personal project called [GoAdventure](https://github.
 
 ### 🌱 Learning ...
 
-I'm currently learning more about Go and SQL. I also trying to integrate Docker into the mix to get a better understanding of containerization. With this knowledge, I hope to eventually get a better understanding of Kubernetes.
+I'm currently learning more about Go and SQL. I also trying to integrate Docker into the mix to get a better understanding of containerization. With this knowledge, I hope to eventually get a better understanding of Kubernetes. I am also trying to expand into creating my own homelab to experiment and grow.
 
 ### 🐻 Boot.Dev ...
 
